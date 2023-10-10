@@ -6,7 +6,7 @@ Currently, only a single reduced-order density model (JB2008 reduced-order model
 Copyright &copy; 2021 by Peng Mun Siew and Richard Linares
 
 ## License
-The code is licensed under GNU General Public License version 3 - see the [LICENSE](https://github.com/pengmun/DESTOPy/blob/main/LICENSE) file for details.
+The code is licensed under the MIT License - see the [LICENSE](https://github.com/pengmun/DESTOPy/blob/main/LICENSE) file for details.
 
 ## Acknowledgments
 The code is developed based upon work supported by the National Science Foundation under award NSF-PHY-2028125.
