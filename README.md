@@ -76,7 +76,7 @@ Download the following ephemeris files and put them in the Data folder:
 * latest_leapseconds.tls: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/lsk/
 * de430.bsp: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/planets/
 * earthstns_itrf93_201023.bsp: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/spk/stations/
-* pck00010.tpc, earth_fixed.tf, earth_200101_990628_predict.bpc, earth_000101_210530_210308.bpc, earth_720101_070426.bpc, earth_latest_high_prec.bpc: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/
+* pck00010.tpc, earth_fixed.tf, earth_200101_990825_predict.bpc, earth_720101_230601.bpc, earth_latest_high_prec.bpc: https://naif.jpl.nasa.gov/pub/naif/generic_kernels/pck/
 
 Python 3.7 was used to develop the code and the code was also tested on Python 3.11.
 
